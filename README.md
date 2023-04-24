@@ -1,4 +1,4 @@
-# Nodejs and Rectjs assignment
+# Nodejs and Reactjs assignment
 
 ## Getting Started
 
