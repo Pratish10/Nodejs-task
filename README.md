@@ -1,4 +1,6 @@
-# Getting Started
+# Nodejs and Rectjs assignment
+
+## Nodejs and Rectjs assignment
 
 This repository is the assignment submission of Node.js & Next.js assignement which is to create a “Node.js” Application using Express Framework and MongoDB Database and Connect it to your Frontend Application (Which can be developed using either React or Nextjs).
 
