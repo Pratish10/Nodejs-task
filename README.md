@@ -90,13 +90,13 @@ Use postman or thunderclient (vscode extension) to check all the apis.
 
 Gets all the data from the database mongodb atlas.
 
-url : http://localhost:3000/
+URL : http://localhost:3000/
 
 #### Get item 1
 
 Users which have income lower than $5 USD and have a car of brand “BMW” or “Mercedes”.
 
-url : http://localhost:3000/user/income-car
+URL : http://localhost:3000/income-car
 
 ```http
   GET /user/income-car
@@ -106,7 +106,7 @@ url : http://localhost:3000/user/income-car
 
 Male Users which have phone price greater than 10,000.
 
-url : http://localhost:3000/user/phone-price
+URL : http://localhost:3000/phone-price
 
 ```http
   GET /user/phone-price
@@ -116,7 +116,7 @@ url : http://localhost:3000/user/phone-price
 
 Users whose last name starts with “M” and has a quote character length greater than 15 and email includes his/her last name.
 
-url : http://localhost:3000/user/quote
+URL : http://localhost:3000/quote
 
 ```http
   GET /user/quote
@@ -126,7 +126,7 @@ url : http://localhost:3000/user/quote
 
 Users which have a car of brand “BMW”, “Mercedes” or “Audi” and whose email does not include any digit.
 
-url : http://localhost:3000/user/car-email
+URL : http://localhost:3000/car-email
 
 ```http
   GET /user/car-email
@@ -136,7 +136,7 @@ url : http://localhost:3000/user/car-email
 
 Show the data of top 10 cities which have the highest number of users and their average income.
 
-url : http://localhost:3000/user/top10cities
+URL : http://localhost:3000/top10cities
 
 ```http
   GET /user/top10cities

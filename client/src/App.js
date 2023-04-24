@@ -7,7 +7,6 @@ import {
   QuoteEmail,
   Top10Cities,
 } from "./pages";
-// import ProtectedRoute from "./ProtectedRoute/Protectedroute";
 
 function App() {
   return (

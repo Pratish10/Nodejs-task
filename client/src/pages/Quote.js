@@ -8,7 +8,7 @@ const QuoteEmail = () => {
   useEffect(() => {
     const fetchData = async () => {
       const result = await axios.get("http://localhost:5000/user/quote");
-      console.log(result.data);
+      // console.log(result.data);
       setData(result.data);
     };
     fetchData();

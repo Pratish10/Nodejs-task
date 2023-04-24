@@ -8,7 +8,7 @@ const Top10Cities = () => {
   useEffect(() => {
     const fetchData = async () => {
       const result = await axios.get("http://localhost:5000/user/top10cities");
-      console.log(result.data);
+      // console.log(result.data);
       setData(result.data);
     };
     fetchData();
