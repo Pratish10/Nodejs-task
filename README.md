@@ -35,8 +35,6 @@ You must fetch the following data using the API and display it on the frontend i
 
 ### MongoDB Atlas
 
-For connecting to mongodb atlas You will need username and password which will be shared via email to `contactus@oruphones.com`.
-
 To connect to mongodb atlas you will need a `.env` file which is shared via email which contains the mongo uri which is needed for the connection to database. Place the `.env` file in the root folder of the project (i.e. Nodejs task) and then follow the next steps.
 
 ### Backend
